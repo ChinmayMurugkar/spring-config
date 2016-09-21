@@ -1,3 +1,1 @@
-message:hello yml
-server:
-  port:"8888"
+message:hello
